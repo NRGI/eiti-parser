@@ -69,8 +69,13 @@ def json_constructor(sheet, json_data, year):
             + sheet.cell_value(5, col).encode('utf-8').lower().replace(' ', '_'),
             'name': sheet.cell_value(3, col).encode('utf-8'),
             'year': year,
-            'commodity': sheet.cell_value(5, col).encode('utf-8')
+            'commodity': sheet.cell_value(5, col).encode('utf-8'),
+            'subtotal': sheet.cell_value(7, col)
             })
+        if sheet.cell_value(4, col) == '':
+            json_data[-1]['id'] = 'na'
+        else:
+            json_data[-1]['id'] = sheet.cell_value(4, col)
         index_tracker['index'][sheet.cell_value(3, col)] = len(json_data) - 1
         index_tracker['names'][len(json_data) - 1] = sheet.cell_value(3, col)
 
@@ -110,8 +115,6 @@ def json_constructor(sheet, json_data, year):
 
     json_data[indexer['gov_total']]['subtotal'] = sheet.cell_value(subtotal_row, 7)
     json_data[indexer['co_total']]['subtotal'] = sheet.cell_value(subtotal_row, 9)
-    for col in range(10, ncols):
-    	json_data[indexer[sheet.cell_value(3, col)]]['subtotal'] = sheet.cell_value(7, col)
 
 
 def main(file_name, json_data):
