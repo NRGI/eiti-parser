@@ -1,143 +1,143 @@
-name,year,commodity,code,subtotal
-Government Total,all,gov_total2007all,2007,61149888.0
-Companies Subtotal,all,co_total2007all,2007,61149868.0
-Abosso Goldfields Ltd,Gold,abosso_goldfields_ltd2007gold,2007,3408392.0
-Anglogold Ashanti (Obuasi) Ltd,Gold,anglogold_ashanti_(obuasi)_ltd2007gold,2007,6706447.0
-Anglogold Ashanti (Iduapriem) Ltd,Gold,anglogold_ashanti_(iduapriem)_ltd2007gold,2007,4095838.0
-Anglogold Ashanti International,Gold,anglogold_ashanti_international2007gold,2007,3749228.0
-Chirano Gold Mines Ltd,Gold,chirano_gold_mines_ltd2007gold,2007,1822177.0
-Ghana Bauxite Company Ltd,Bauxite,ghana_bauxite_company_ltd2007bauxite,2007,554052.0
-Ghana Manganese Company Ltd,Manganese,ghana_manganese_company_ltd2007manganese,2007,1246223.0
-Golden Star (Wassa) Ltd,Gold,golden_star_(wassa)_ltd2007gold,2007,2160918.0
-Golden Star (Prestea/Bogoso) Ltd,Gold,golden_star_(prestea/bogoso)_ltd2007gold,2007,1977505.0
-Goldfields Ghana (Wassa) Ltd,Gold,goldfields_ghana_(wassa)_ltd2007gold,2007,26304630.0
-Central African Gold (Bibiani),Gold,central_african_gold_(bibiani)2007gold,2007,300765.0
-Newmont Ghana Gold Ltd,Gold,newmont_ghana_gold_ltd2007gold,2007,8823693.0
-Government Total,all,gov_total2008all,2008,95753156.0
-Companies Subtotal,all,co_total2008all,2008,95753156.0
-Abosso Goldfields Ltd,Gold,abosso_goldfields_ltd2008gold,2008,6137237.0
-Anglogold Ashanti (Obuasi) Ltd,Gold,anglogold_ashanti_(obuasi)_ltd2008gold,2008,9129690.0
-Anglogold Ashanti (Iduapriem) Ltd,Gold,anglogold_ashanti_(iduapriem)_ltd2008gold,2008,4986192.0
-Anglogold Ashanti International,Gold,anglogold_ashanti_international2008gold,2008,1348489.0
-Chirano Gold Mines Ltd,Gold,chirano_gold_mines_ltd2008gold,2008,3320828.0
-Ghana Bauxite Company,Bauxite,ghana_bauxite_company2008bauxite,2008,472645.0
-Ghana Manganese  Ltd,Manganese,ghana_manganese__ltd2008manganese,2008,4123716.0
-Golden Star (Wassa) Ltd,Gold,golden_star_(wassa)_ltd2008gold,2008,3107640.0
-Golden Star (Prestea/Bogoso) Ltd,Gold,golden_star_(prestea/bogoso)_ltd2008gold,2008,4665609.0
-Gold Fields (Ghana) Ltd,Gold,gold_fields_(ghana)_ltd2008gold,2008,45389394.0
-Central African Gold (Bibiani),Gold,central_african_gold_(bibiani)2008gold,2008,412959.0
-Newmont Ghana Gold Ltd,Gold,newmont_ghana_gold_ltd2008gold,2008,12658757.0
-Government Total,all,gov_total2009all,2009,117510929.0
-Companies Subtotal,all,co_total2009all,2009,117510930.0
-Abosso Goldfields Ltd,Gold,abosso_goldfields_ltd2009gold,2009,14906661.0
-Anglogold Ashanti (Obuasi) Ltd,Gold,anglogold_ashanti_(obuasi)_ltd2009gold,2009,14519724.0
-Anglogold Ashanti (Iduapriem) Ltd,Gold,anglogold_ashanti_(iduapriem)_ltd2009gold,2009,11826469.0
-Anglogold Ashanti International,,anglogold_ashanti_international2009,2009,
-Chirano Gold Mines Ltd,Gold,chirano_gold_mines_ltd2009gold,2009,5697177.0
-Ghana Bauxite Company Ltd,Bauxite,ghana_bauxite_company_ltd2009bauxite,2009,592076.0
-Ghana Manganese Company Ltd,Manganese,ghana_manganese_company_ltd2009manganese,2009,8759922.0
-Golden Star (Wassa) Ltd,Gold,golden_star_(wassa)_ltd2009gold,2009,7720269.0
-Golden Star (Prestea/Bogoso) Ltd,Gold,golden_star_(prestea/bogoso)_ltd2009gold,2009,6657458.0
-Gold Fields Ghana Ltd,Gold,gold_fields_ghana_ltd2009gold,2009,24201255.0
-Newmont Ghana Gold Ltd,Gold,newmont_ghana_gold_ltd2009gold,2009,20656555.0
-Government Total,all,gov_total2010all,2010,298973901.0
-Companies Subtotal,all,co_total2010all,2010,298973901.0
-Abosso Goldfields Ltd,Gold,abosso_goldfields_ltd2010gold,2010,47400571.0
-Anglogold Ashanti (Ghana) Ltd,Gold,anglogold_ashanti_(ghana)_ltd2010gold,2010,17784907.0
-Anglogold Ashanti (Iduapriem) Ltd,Gold,anglogold_ashanti_(iduapriem)_ltd2010gold,2010,17693132.0
-Anglogold Ashanti International,,anglogold_ashanti_international2010,2010,2976370.0
-Chirano Gold Mines Ltd,Gold,chirano_gold_mines_ltd2010gold,2010,17262516.0
-Ghana Bauxite Company Ltd,Bauxite,ghana_bauxite_company_ltd2010bauxite,2010,1033823.0
-Ghana Manganese Company,Manganese,ghana_manganese_company2010manganese,2010,12182963.0
-Golden Star (Wassa) Ltd,Gold,golden_star_(wassa)_ltd2010gold,2010,9600151.0
-Golden Star (Prestea/Bogoso) Ltd,Gold,golden_star_(prestea/bogoso)_ltd2010gold,2010,9366302.0
-Gold Fields Ghana Ltd,Gold,gold_fields_ghana_ltd2010gold,2010,137048700.0
-Newmont Ghana Gold Ltd,Gold,newmont_ghana_gold_ltd2010gold,2010,26624466.0
-Government Total,all,gov_total2010all,2010,422252.23
-Companies Subtotal,all,co_total2010all,2010,422252.23
-Ghana National Petroleum Corporation,Oil,ghana_national_petroleum_corporation2010oil,2010,0.0
-Tullow (Ghana) Ltd,Oil,tullow_(ghana)_ltd2010oil,2010,58140.5
-Kosmos Energy Ghana HC,Oil,kosmos_energy_ghana_hc2010oil,2010,48751.0
-Anardako (Ghana) Ltd,Oil,anardako_(ghana)_ltd2010oil,2010,0.0
-Saltpond Oil Fields Ltd,Oil,saltpond_oil_fields_ltd2010oil,2010,315360.73
-Sabre Oil & Gas Holdings Ltd,Oil,sabre_oil_&_gas_holdings_ltd2010oil,2010,0.0
-E.o. Group Ltd,,e.o._group_ltd2010,2010,0.0
-Government Total,all,gov_total2011all,2011,762472091.0
-Companies Subtotal,all,co_total2011all,2011,762472091.0
-Abosso Goldfields Ltd,Gold,abosso_goldfields_ltd2011gold,2011,71969903.0
-Adamus Resources Ltd,Gold,adamus_resources_ltd2011gold,2011,
-Anglogold Ashanti (Ghana) Ltd,Gold,anglogold_ashanti_(ghana)_ltd2011gold,2011,20089802.0
-Anglogold Ashanti (Iduapriem) Ltd,Gold,anglogold_ashanti_(iduapriem)_ltd2011gold,2011,70486422.0
-Anglogold Ashanti International,,anglogold_ashanti_international2011,2011,
-Chirano Gold Mines Ltd,Gold,chirano_gold_mines_ltd2011gold,2011,48077866.0
-Ghana Bauxite Company Ltd,Bauxite,ghana_bauxite_company_ltd2011bauxite,2011,689863.0
-Ghana Manganese Company,Manganese,ghana_manganese_company2011manganese,2011,50396979.0
-Golden Star (Wassa) Ltd,Gold,golden_star_(wassa)_ltd2011gold,2011,14872591.0
-Golden Star (Prestea/Bogoso) Ltd,Gold,golden_star_(prestea/bogoso)_ltd2011gold,2011,12573619.0
-Gold Fields Ghana Ltd,Gold,gold_fields_ghana_ltd2011gold,2011,312081944.0
-Newmont Ghana Gold Ltd,Gold,newmont_ghana_gold_ltd2011gold,2011,151110670.0
-Government Total,all,gov_total2011all,2011,444350554.40999997
-Companies Subtotal,all,co_total2011all,2011,444350554.40999997
-Ghana National Petroleum Corporation,Oil,ghana_national_petroleum_corporation2011oil,2011,444124723.69
-Tullow (Ghana) Ltd,Oil,tullow_(ghana)_ltd2011oil,2011,63421.32
-Kosmos Energy Ghana HC,Oil,kosmos_energy_ghana_hc2011oil,2011,29427.0
-Anardako (Ghana) Ltd,Oil,anardako_(ghana)_ltd2011oil,2011,0.0
-Saltpond Oil Fields Ltd,Oil,saltpond_oil_fields_ltd2011oil,2011,132982.4
-Sabre Oil & Gas Holdings Ltd,Oil,sabre_oil_&_gas_holdings_ltd2011oil,2011,0.0
-E.o. Group Ltd,,e.o._group_ltd2011,2011,0.0
-Government Total,all,gov_total2012all,2012,1113293362.0
-Companies Subtotal,all,co_total2012all,2012,1113293362.0
-Abosso Goldfields Ltd,Gold/Silver,abosso_goldfields_ltd2012gold/silver,2012,39489624.0
-Adamus Resources Ltd,Gold/other Base,adamus_resources_ltd2012gold/other_base,2012,16284814.0
-Anglogold Ashanti (Ghana) Ltd,Gold/Diamond,anglogold_ashanti_(ghana)_ltd2012gold/diamond,2012,25733496.0
-Anglogold Ashanti (Iduapriem),Gold/Diamond,anglogold_ashanti_(iduapriem)2012gold/diamond,2012,31437445.0
-Anglogold Ashanti International,,anglogold_ashanti_international2012,2012,5162056.0
-Chirano Gold Mines Ltd,Gold,chirano_gold_mines_ltd2012gold,2012,192122239.0
-Ghana Bauxite Compny Ltd,Bauxite,ghana_bauxite_compny_ltd2012bauxite,2012,1996845.0
-Ghana Manganese Company,Manganese,ghana_manganese_company2012manganese,2012,28905152.0
-Golden Star (Wassa) Ltd,Gold/Diamond,golden_star_(wassa)_ltd2012gold/diamond,2012,21828134.0
-Golden Star Prestea/Bogoso,Gold/Diamond,golden_star_prestea/bogoso2012gold/diamond,2012,22852965.0
-Goldfields Ghana Ltd,Gold,goldfields_ghana_ltd2012gold,2012,407078895.0
-Newmont Ghana Gold Ltd,Gold,newmont_ghana_gold_ltd2012gold,2012,291273113.0
-Newmont Golden Ridge Ltd,Gold,newmont_golden_ridge_ltd2012gold,2012,0.0
-Noble Gold Mining Co.,Gold,noble_gold_mining_co.2012gold,2012,756091.0
-Perseus  Mining (Ghana ) Co.,Gold,perseus__mining_(ghana_)_co.2012gold,2012,24051513.0
-Prestea Sankofa Gold Ltd,Gold,prestea_sankofa_gold_ltd2012gold,2012,3094356.0
-West African Quarries,Limestone,west_african_quarries2012limestone,2012,1226624.0
-Government Total,all,gov_total2012all,2012,
-Companies Subtotal,all,co_total2012all,2012,
-Ghana National Petroleum Corporation,Oil,ghana_national_petroleum_corporation2012oil,2012,541071323.0
-Tullow (Ghana) Ltd,Oil,tullow_(ghana)_ltd2012oil,2012,63866.95
-Kosmos Energy Ghana HC,Oil,kosmos_energy_ghana_hc2012oil,2012,35438.56
-Anardako (Ghana) Ltd,Oil,anardako_(ghana)_ltd2012oil,2012,0.0
-Saltpond Oil Fields Ltd,Oil,saltpond_oil_fields_ltd2012oil,2012,339454.33
-Sabre Oil & Gas Holdings Ltd,Oil,sabre_oil_&_gas_holdings_ltd2012oil,2012,0.0
-Petro SA,Oil,petro_sa2012oil,2012,0.0
-Government Total,all,gov_total2013all,2013,828430763.0
-Companies Subtotal,all,co_total2013all,2013,827941486.42
-Abosso Goldfields Ltd,Gold/Silver,abosso_goldfields_ltd2013gold/silver,2013,28177714.23
-Adamus Resources Ltd,Gold/other Base,adamus_resources_ltd2013gold/other_base,2013,14953065.0
-Anglogold Ashanti (Ghana) Ltd,Gold/Diamond,anglogold_ashanti_(ghana)_ltd2013gold/diamond,2013,23982926.0
-Anglogold Ashanti (Iduapriem),Gold/Diamond,anglogold_ashanti_(iduapriem)2013gold/diamond,2013,22679409.0
-Anglogold Ashanti International,,anglogold_ashanti_international2013,2013,0.0
-Chirano Gold Mines Ltd,Gold,chirano_gold_mines_ltd2013gold,2013,122492800.19
-Ghana Bauxite Compny Ltd,Bauxite,ghana_bauxite_compny_ltd2013bauxite,2013,3419198.0
-Ghana Manganese Company,Manganese,ghana_manganese_company2013manganese,2013,37134557.0
-Golden Star (Wassa) Ltd,Gold/Diamond,golden_star_(wassa)_ltd2013gold/diamond,2013,74088072.8
-Golden Star Prestea/Bogoso,Gold/Diamond,golden_star_prestea/bogoso2013gold/diamond,2013,23472243.0
-Goldfields Ghana Ltd,Gold,goldfields_ghana_ltd2013gold,2013,210366309.74
-Newmont Ghana Gold Ltd,Gold,newmont_ghana_gold_ltd2013gold,2013,226405055.26
-Newmont Golden Ridge Ltd,Gold,newmont_golden_ridge_ltd2013gold,2013,8342795.0
-Noble Gold Mining Co.,Gold,noble_gold_mining_co.2013gold,2013,2957223.0
-Perseus  Mining (Ghana ) Co.,Gold,perseus__mining_(ghana_)_co.2013gold,2013,27624584.2
-Prestea Sankofa Gold Ltd,Gold,prestea_sankofa_gold_ltd2013gold,2013,411881.0
-West African Quarries,Limestone,west_african_quarries2013limestone,2013,1433653.0
-Government Total,all,gov_total2013all,2013,
-Companies Subtotal,all,co_total2013all,2013,
-Ghana National Petroleum Corporation,Oil,ghana_national_petroleum_corporation2013oil,2013,628580078.49
-Tullow (Ghana) Ltd,Oil,tullow_(ghana)_ltd2013oil,2013,107025730.31
-Kosmos Energy Ghana HC,Oil,kosmos_energy_ghana_hc2013oil,2013,55021795.9
-Anardako (Ghana) Ltd,Oil,anardako_(ghana)_ltd2013oil,2013,55071284.0
-Saltpond Oil Fields Ltd,Oil,saltpond_oil_fields_ltd2013oil,2013,171595.0
-Sabre Oil & Gas Holdings Ltd,Oil,sabre_oil_&_gas_holdings_ltd2013oil,2013,0.0
-Petro SA,Oil,petro_sa2013oil,2013,0.0
+name,year,commodity,code,subtotal,1145E,114522E,1212E,141E,1143E,143E,1141E,1151E,1415E31,1415E32,12E,1153E1,11451E,1421E,144E1,14E,115E,1412E,113E,114521E,111E,1415E1,142E,1412E2,1412E1,1142E,1112E2,1112E1,11E,1152E,1415E,1413E,116E,1422E,114E,1415E4,1415E5,112E,1415E2
+Government Total,all,gov_total2007all,2007,61149888.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,884811.0,0.0,na,40836760.0,na,3853442.0,na,na,na,15573250.0,na,na,na,na,1625.0,na,na,na,na,na,na
+Companies Subtotal,all,co_total2007all,2007,61149868.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,884811.0,na,na,40836760.0,na,3853422.0,na,na,na,15573250.0,na,na,na,na,1625.0,na,na,na,na,na,na
+Abosso Goldfields Ltd,Gold,abosso_goldfields_ltd2007gold,2007,3408392.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,37609.0,na,na,3370783.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti (Obuasi) Ltd,Gold,anglogold_ashanti_(obuasi)_ltd2007gold,2007,6706447.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,419541.0,na,na,6286906.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti (Iduapriem) Ltd,Gold,anglogold_ashanti_(iduapriem)_ltd2007gold,2007,4095838.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,35938.0,na,na,2480936.0,na,na,na,na,na,1578964.0,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti International,Gold,anglogold_ashanti_international2007gold,2007,3749228.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,3749228.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Chirano Gold Mines Ltd,Gold,chirano_gold_mines_ltd2007gold,2007,1822177.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,35000.0,na,na,1785624.0,na,na,na,na,na,na,na,na,na,na,1553.0,na,na,na,na,na,na
+Ghana Bauxite Company Ltd,Bauxite,ghana_bauxite_company_ltd2007bauxite,2007,554052.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,11576.0,na,na,542476.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Ghana Manganese Company Ltd,Manganese,ghana_manganese_company_ltd2007manganese,2007,1246223.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,13196.0,na,na,1030516.0,na,104194.0,na,na,na,98317.0,na,na,na,na,na,na,na,na,na,na,na
+Golden Star (Wassa) Ltd,Gold,golden_star_(wassa)_ltd2007gold,2007,2160918.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,85738.0,na,na,2075180.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Golden Star (Prestea/Bogoso) Ltd,Gold,golden_star_(prestea/bogoso)_ltd2007gold,2007,1977505.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,17241.0,na,na,1960264.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Goldfields Ghana (Wassa) Ltd,Gold,goldfields_ghana_(wassa)_ltd2007gold,2007,26304630.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,198972.0,na,na,12209689.0,na,na,na,na,na,13895969.0,na,na,na,na,na,na,na,na,na,na,na
+Central African Gold (Bibiani),Gold,central_african_gold_(bibiani)2007gold,2007,300765.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,30000.0,na,na,270765.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Newmont Ghana Gold Ltd,Gold,newmont_ghana_gold_ltd2007gold,2007,8823693.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,8823621.0,na,na,na,na,na,na,na,na,na,na,72.0,na,na,na,na,na,na
+Government Total,all,gov_total2008all,2008,95753156.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,826978.0,0.0,na,61260431.0,na,1417128.0,na,na,na,32237579.0,na,na,na,na,11040.0,na,na,na,na,na,na
+Companies Subtotal,all,co_total2008all,2008,95753156.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,826978.0,na,na,61260431.0,na,1417128.0,na,na,na,32237579.0,na,na,na,na,11040.0,na,na,na,na,na,na
+Abosso Goldfields Ltd,Gold,abosso_goldfields_ltd2008gold,2008,6137237.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,4084413.0,na,na,na,na,na,2052824.0,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti (Obuasi) Ltd,Gold,anglogold_ashanti_(obuasi)_ltd2008gold,2008,9129690.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,419560.0,na,na,8710130.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti (Iduapriem) Ltd,Gold,anglogold_ashanti_(iduapriem)_ltd2008gold,2008,4986192.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,45375.0,na,na,4940817.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti International,Gold,anglogold_ashanti_international2008gold,2008,1348489.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1348489.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Chirano Gold Mines Ltd,Gold,chirano_gold_mines_ltd2008gold,2008,3320828.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,35000.0,na,na,3282768.0,na,na,na,na,na,na,na,na,na,na,3060.0,na,na,na,na,na,na
+Ghana Bauxite Company,Bauxite,ghana_bauxite_company2008bauxite,2008,472645.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,11576.0,na,na,453089.0,na,na,na,na,na,na,na,na,na,na,7980.0,na,na,na,na,na,na
+Ghana Manganese  Ltd,Manganese,ghana_manganese__ltd2008manganese,2008,4123716.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,17853.0,na,na,1652108.0,na,na,na,na,na,2453755.0,na,na,na,na,na,na,na,na,na,na,na
+Golden Star (Wassa) Ltd,Gold,golden_star_(wassa)_ltd2008gold,2008,3107640.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,35745.0,na,na,3071895.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Golden Star (Prestea/Bogoso) Ltd,Gold,golden_star_(prestea/bogoso)_ltd2008gold,2008,4665609.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,20967.0,na,na,4644642.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Gold Fields (Ghana) Ltd,Gold,gold_fields_(ghana)_ltd2008gold,2008,45389394.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,210902.0,na,na,17447492.0,na,na,na,na,na,27731000.0,na,na,na,na,na,na,na,na,na,na,na
+Central African Gold (Bibiani),Gold,central_african_gold_(bibiani)2008gold,2008,412959.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,30000.0,na,na,314320.0,na,68639.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Newmont Ghana Gold Ltd,Gold,newmont_ghana_gold_ltd2008gold,2008,12658757.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,12658757.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Government Total,all,gov_total2009all,2009,117510929.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,913773.0,0.0,na,96618197.0,na,2477830.0,na,na,na,17501129.0,na,na,na,na,0.0,na,na,na,na,na,na
+Companies Subtotal,all,co_total2009all,2009,117510930.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,913773.0,na,na,96618198.0,na,2477830.0,na,na,na,17501129.0,na,na,na,na,na,na,na,na,na,na,na
+Abosso Goldfields Ltd,Gold,abosso_goldfields_ltd2009gold,2009,14906661.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,36783.0,na,na,7791169.0,na,na,na,na,na,7078709.0,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti (Obuasi) Ltd,Gold,anglogold_ashanti_(obuasi)_ltd2009gold,2009,14519724.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,419560.0,na,na,14100164.0,na,na,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti (Iduapriem) Ltd,Gold,anglogold_ashanti_(iduapriem)_ltd2009gold,2009,11826469.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,55183.0,na,na,6825738.0,na,na,na,na,na,4945548.0,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti International,,anglogold_ashanti_international2009,2009,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1973364.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Chirano Gold Mines Ltd,Gold,chirano_gold_mines_ltd2009gold,2009,5697177.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,35000.0,na,na,5662177.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Ghana Bauxite Company Ltd,Bauxite,ghana_bauxite_company_ltd2009bauxite,2009,592076.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,11574.0,na,na,580502.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Ghana Manganese Company Ltd,Manganese,ghana_manganese_company_ltd2009manganese,2009,8759922.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,25358.0,na,na,2753226.0,na,504466.0,na,na,na,5476872.0,na,na,na,na,na,na,na,na,na,na,na
+Golden Star (Wassa) Ltd,Gold,golden_star_(wassa)_ltd2009gold,2009,7720269.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,7720269.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Golden Star (Prestea/Bogoso) Ltd,Gold,golden_star_(prestea/bogoso)_ltd2009gold,2009,6657458.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,20966.0,na,na,6636492.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Gold Fields Ghana Ltd,Gold,gold_fields_ghana_ltd2009gold,2009,24201255.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,309349.0,na,na,23891906.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Newmont Ghana Gold Ltd,Gold,newmont_ghana_gold_ltd2009gold,2009,20656555.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,20656555.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Government Total,all,gov_total2010all,2010,298973901.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,830051.0,0.0,na,150453905.0,na,22440212.0,na,na,na,125249733.0,na,na,na,na,0.0,na,na,na,na,na,na
+Companies Subtotal,all,co_total2010all,2010,298973901.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,830051.0,na,na,150453905.0,na,22440212.0,na,na,na,125249733.0,na,na,na,na,na,na,na,na,na,na,na
+Abosso Goldfields Ltd,Gold,abosso_goldfields_ltd2010gold,2010,47400571.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,12638871.0,na,4288800.0,na,na,na,30472900.0,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti (Ghana) Ltd,Gold,anglogold_ashanti_(ghana)_ltd2010gold,2010,17784907.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,424600.0,na,na,17360307.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti (Iduapriem) Ltd,Gold,anglogold_ashanti_(iduapriem)_ltd2010gold,2010,17693132.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,65000.0,na,na,9070786.0,na,na,na,na,na,8557346.0,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti International,,anglogold_ashanti_international2010,2010,2976370.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,2976370.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Chirano Gold Mines Ltd,Gold,chirano_gold_mines_ltd2010gold,2010,17262516.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,17247431.0,na,na,na,na,na,15085.0,na,na,na,na,na,na,na,na,na,na,na
+Ghana Bauxite Company Ltd,Bauxite,ghana_bauxite_company_ltd2010bauxite,2010,1033823.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1033823.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Ghana Manganese Company,Manganese,ghana_manganese_company2010manganese,2010,12182963.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,31697.0,na,na,3764675.0,na,832542.0,na,na,na,7554049.0,na,na,na,na,na,na,na,na,na,na,na
+Golden Star (Wassa) Ltd,Gold,golden_star_(wassa)_ltd2010gold,2010,9600151.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,9600151.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Golden Star (Prestea/Bogoso) Ltd,Gold,golden_star_(prestea/bogoso)_ltd2010gold,2010,9366302.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,9366302.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Gold Fields Ghana Ltd,Gold,gold_fields_ghana_ltd2010gold,2010,137048700.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,308754.0,na,na,43747093.0,na,14342500.0,na,na,na,78650353.0,na,na,na,na,na,na,na,na,na,na,na
+Newmont Ghana Gold Ltd,Gold,newmont_ghana_gold_ltd2010gold,2010,26624466.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,26624466.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Government Total,all,gov_total2010all,2010,422252.23,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,107496.5,na,314755.73,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Companies Subtotal,all,co_total2010all,2010,422252.23,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,107496.5,na,314755.73,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Ghana National Petroleum Corporation,Oil,ghana_national_petroleum_corporation2010oil,2010,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Tullow (Ghana) Ltd,Oil,tullow_(ghana)_ltd2010oil,2010,58140.5,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,58140.5,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Kosmos Energy Ghana HC,Oil,kosmos_energy_ghana_hc2010oil,2010,48751.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,48751.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Anardako (Ghana) Ltd,Oil,anardako_(ghana)_ltd2010oil,2010,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Saltpond Oil Fields Ltd,Oil,saltpond_oil_fields_ltd2010oil,2010,315360.73,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,605.0,na,314755.73,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Sabre Oil & Gas Holdings Ltd,Oil,sabre_oil_&_gas_holdings_ltd2010oil,2010,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+E.o. Group Ltd,,e.o._group_ltd2010,2010,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Government Total,all,gov_total2011all,2011,762472091.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,482092.0,0.0,na,218151362.0,na,44012872.0,na,na,na,499825765.0,na,na,na,na,0.0,na,na,na,na,na,na
+Companies Subtotal,all,co_total2011all,2011,762472091.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,482092.0,na,na,218151362.0,na,44012872.0,na,na,na,499825765.0,na,na,na,na,na,na,na,na,na,na,na
+Abosso Goldfields Ltd,Gold,abosso_goldfields_ltd2011gold,2011,71969903.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,18607347.0,na,na,na,na,na,53362556.0,na,na,na,na,na,na,na,na,na,na,na
+Adamus Resources Ltd,Gold,adamus_resources_ltd2011gold,2011,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,6729929.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti (Ghana) Ltd,Gold,anglogold_ashanti_(ghana)_ltd2011gold,2011,20089802.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,424600.0,na,na,19665202.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti (Iduapriem) Ltd,Gold,anglogold_ashanti_(iduapriem)_ltd2011gold,2011,70486422.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,13691446.0,na,na,na,na,na,56794976.0,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti International,,anglogold_ashanti_international2011,2011,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,3392503.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Chirano Gold Mines Ltd,Gold,chirano_gold_mines_ltd2011gold,2011,48077866.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,57492.0,na,na,19129768.0,na,na,na,na,na,28890606.0,na,na,na,na,na,na,na,na,na,na,na
+Ghana Bauxite Company Ltd,Bauxite,ghana_bauxite_company_ltd2011bauxite,2011,689863.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,689863.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Ghana Manganese Company,Manganese,ghana_manganese_company2011manganese,2011,50396979.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,6685574.0,na,898369.0,na,na,na,42813036.0,na,na,na,na,na,na,na,na,na,na,na
+Golden Star (Wassa) Ltd,Gold,golden_star_(wassa)_ltd2011gold,2011,14872591.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,14872591.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Golden Star (Prestea/Bogoso) Ltd,Gold,golden_star_(prestea/bogoso)_ltd2011gold,2011,12573619.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,12573619.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Gold Fields Ghana Ltd,Gold,gold_fields_ghana_ltd2011gold,2011,312081944.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,57693232.0,na,39722000.0,na,na,na,214666712.0,na,na,na,na,na,na,na,na,na,na,na
+Newmont Ghana Gold Ltd,Gold,newmont_ghana_gold_ltd2011gold,2011,151110670.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,47812791.0,na,na,na,na,na,103297879.0,na,na,na,na,na,na,na,na,na,na,na
+Government Total,all,gov_total2011all,2011,444350554.40999997,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,233588058.03,92848.32,na,123074126.3,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Companies Subtotal,all,co_total2011all,2011,444350554.40999997,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,233588058.03,92848.32,na,123074126.30000001,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Ghana National Petroleum Corporation,Oil,ghana_national_petroleum_corporation2011oil,2011,444124723.69,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,233588058.03,na,na,122941143.9,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Tullow (Ghana) Ltd,Oil,tullow_(ghana)_ltd2011oil,2011,63421.32,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,63421.32,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Kosmos Energy Ghana HC,Oil,kosmos_energy_ghana_hc2011oil,2011,29427.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,29427.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Anardako (Ghana) Ltd,Oil,anardako_(ghana)_ltd2011oil,2011,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Saltpond Oil Fields Ltd,Oil,saltpond_oil_fields_ltd2011oil,2011,132982.4,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,132982.4,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Sabre Oil & Gas Holdings Ltd,Oil,sabre_oil_&_gas_holdings_ltd2011oil,2011,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+E.o. Group Ltd,,e.o._group_ltd2011,2011,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Government Total,all,gov_total2012all,2012,1113293362.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1293781.0,0.0,na,357851654.0,na,25879431.0,na,na,na,728268496.0,na,na,na,na,0.0,na,na,na,na,na,na
+Companies Subtotal,all,co_total2012all,2012,1113293362.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1293781.0,na,na,357851654.0,na,25879431.0,na,na,na,728268496.0,na,na,na,na,na,na,na,na,na,na,na
+Abosso Goldfields Ltd,Gold/Silver,abosso_goldfields_ltd2012gold/silver,2012,39489624.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,57608.0,na,na,25032098.0,na,0.0,na,na,na,14399918.0,na,na,na,na,na,na,na,na,na,na,na
+Adamus Resources Ltd,Gold/other Base,adamus_resources_ltd2012gold/other_base,2012,16284814.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,28000.0,na,na,16256814.0,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti (Ghana) Ltd,Gold/Diamond,anglogold_ashanti_(ghana)_ltd2012gold/diamond,2012,25733496.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,430253.0,na,na,25303243.0,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti (Iduapriem),Gold/Diamond,anglogold_ashanti_(iduapriem)2012gold/diamond,2012,31437445.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,99893.0,na,na,15713823.0,na,0.0,na,na,na,15623729.0,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti International,,anglogold_ashanti_international2012,2012,5162056.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,5162056.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Chirano Gold Mines Ltd,Gold,chirano_gold_mines_ltd2012gold,2012,192122239.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,57507.0,na,na,40456808.0,na,0.0,na,na,na,151607924.0,na,na,na,na,na,na,na,na,na,na,na
+Ghana Bauxite Compny Ltd,Bauxite,ghana_bauxite_compny_ltd2012bauxite,2012,1996845.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,11576.0,na,na,1985269.0,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Ghana Manganese Company,Manganese,ghana_manganese_company2012manganese,2012,28905152.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,50643.0,na,na,10114274.0,na,1668375.0,na,na,na,17071860.0,na,na,na,na,na,na,na,na,na,na,na
+Golden Star (Wassa) Ltd,Gold/Diamond,golden_star_(wassa)_ltd2012gold/diamond,2012,21828134.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,na,na,21828134.0,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Golden Star Prestea/Bogoso,Gold/Diamond,golden_star_prestea/bogoso2012gold/diamond,2012,22852965.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,39239.0,na,na,22813726.0,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Goldfields Ghana Ltd,Gold,goldfields_ghana_ltd2012gold,2012,407078895.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,473314.0,na,na,102422421.0,na,19049000.0,na,na,na,285134160.0,na,na,na,na,na,na,na,na,na,na,na
+Newmont Ghana Gold Ltd,Gold,newmont_ghana_gold_ltd2012gold,2012,291273113.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,na,na,47038033.0,na,0.0,na,na,na,244235080.0,na,na,na,na,na,na,na,na,na,na,na
+Newmont Golden Ridge Ltd,Gold,newmont_golden_ridge_ltd2012gold,2012,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,na,na,0.0,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Noble Gold Mining Co.,Gold,noble_gold_mining_co.2012gold,2012,756091.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,42792.0,na,na,713299.0,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Perseus  Mining (Ghana ) Co.,Gold,perseus__mining_(ghana_)_co.2012gold,2012,24051513.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,na,na,24051513.0,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Prestea Sankofa Gold Ltd,Gold,prestea_sankofa_gold_ltd2012gold,2012,3094356.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,2956.0,na,na,3091400.0,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+West African Quarries,Limestone,west_african_quarries2012limestone,2012,1226624.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,na,na,1030799.0,na,0.0,na,na,na,195825.0,na,na,na,na,na,na,na,na,na,na,na
+Government Total,all,gov_total2012all,2012,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,286220579.0,570138.13,na,150978839.53,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Companies Subtotal,all,co_total2012all,2012,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,286220579.38,102330.51,na,150978839.53,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Ghana National Petroleum Corporation,Oil,ghana_national_petroleum_corporation2012oil,2012,541071323.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,286220579.38,0.0,na,150642410.2,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Tullow (Ghana) Ltd,Oil,tullow_(ghana)_ltd2012oil,2012,63866.95,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,63866.95,na,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Kosmos Energy Ghana HC,Oil,kosmos_energy_ghana_hc2012oil,2012,35438.56,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,35438.56,na,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Anardako (Ghana) Ltd,Oil,anardako_(ghana)_ltd2012oil,2012,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,0.0,na,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Saltpond Oil Fields Ltd,Oil,saltpond_oil_fields_ltd2012oil,2012,339454.33,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,3025.0,na,336429.33,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Sabre Oil & Gas Holdings Ltd,Oil,sabre_oil_&_gas_holdings_ltd2012oil,2012,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,0.0,na,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Petro SA,Oil,petro_sa2012oil,2012,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,0.0,na,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Government Total,all,gov_total2013all,2013,828430763.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1688763.0,0.0,na,368864143.0,na,1130685.0,na,na,na,456747172.0,na,na,na,na,0.0,na,na,na,na,na,na
+Companies Subtotal,all,co_total2013all,2013,827941486.42,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1414029.0,na,na,368927218.41999996,na,1130685.0,na,na,na,456469554.0,na,na,na,na,na,na,na,na,na,na,na
+Abosso Goldfields Ltd,Gold/Silver,abosso_goldfields_ltd2013gold/silver,2013,28177714.23,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,61035.0,na,na,22526890.23,na,0.0,na,na,na,5589789.0,na,na,na,na,na,na,na,na,na,na,na
+Adamus Resources Ltd,Gold/other Base,adamus_resources_ltd2013gold/other_base,2013,14953065.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,28000.0,na,na,14925065.0,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti (Ghana) Ltd,Gold/Diamond,anglogold_ashanti_(ghana)_ltd2013gold/diamond,2013,23982926.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,430253.0,na,na,22421988.0,na,1130685.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti (Iduapriem),Gold/Diamond,anglogold_ashanti_(iduapriem)2013gold/diamond,2013,22679409.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,99903.0,na,na,17235132.0,na,0.0,na,na,na,5344374.0,na,na,na,na,na,na,na,na,na,na,na
+Anglogold Ashanti International,,anglogold_ashanti_international2013,2013,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,na,na,0.0,na,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+Chirano Gold Mines Ltd,Gold,chirano_gold_mines_ltd2013gold,2013,122492800.19,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,175000.0,na,na,42141163.19,na,0.0,na,na,na,80176637.0,na,na,na,na,na,na,na,na,na,na,na
+Ghana Bauxite Compny Ltd,Bauxite,ghana_bauxite_compny_ltd2013bauxite,2013,3419198.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,36000.0,na,na,3383198.0,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Ghana Manganese Company,Manganese,ghana_manganese_company2013manganese,2013,37134557.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,50643.0,na,na,10286750.0,na,0.0,na,na,na,26797164.0,na,na,na,na,na,na,na,na,na,na,na
+Golden Star (Wassa) Ltd,Gold/Diamond,golden_star_(wassa)_ltd2013gold/diamond,2013,74088072.8,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,56000.0,na,na,26291802.8,na,0.0,na,na,na,47740270.0,na,na,na,na,na,na,na,na,na,na,na
+Golden Star Prestea/Bogoso,Gold/Diamond,golden_star_prestea/bogoso2013gold/diamond,2013,23472243.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,39239.0,na,na,23433004.0,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Goldfields Ghana Ltd,Gold,goldfields_ghana_ltd2013gold,2013,210366309.74,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,285170.0,na,na,97439101.74,na,0.0,na,na,na,112642038.0,na,na,na,na,na,na,na,na,na,na,na
+Newmont Ghana Gold Ltd,Gold,newmont_ghana_gold_ltd2013gold,2013,226405055.26,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,na,na,48289010.26,na,0.0,na,na,na,178116045.0,na,na,na,na,na,na,na,na,na,na,na
+Newmont Golden Ridge Ltd,Gold,newmont_golden_ridge_ltd2013gold,2013,8342795.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,na,na,8342795.0,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Noble Gold Mining Co.,Gold,noble_gold_mining_co.2013gold,2013,2957223.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,150000.0,na,na,2807223.0,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Perseus  Mining (Ghana ) Co.,Gold,perseus__mining_(ghana_)_co.2013gold,2013,27624584.2,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,na,na,27624584.2,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Prestea Sankofa Gold Ltd,Gold,prestea_sankofa_gold_ltd2013gold,2013,411881.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,2786.0,na,na,409095.0,na,0.0,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+West African Quarries,Limestone,west_african_quarries2013limestone,2013,1433653.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,na,na,1370416.0,na,0.0,na,na,na,63237.0,na,na,na,na,na,na,na,na,na,na,na
+Government Total,all,gov_total2013all,2013,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,332511716.0,676418.33,na,175177206.0,na,0.0,na,na,na,216985498.0,na,na,na,na,na,na,na,na,na,na,na
+Companies Subtotal,all,co_total2013all,2013,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,332511716.3,133867.65,na,175177206.47,na,na,na,na,na,216985497.56,na,na,na,na,na,na,na,na,na,na,na
+Ghana National Petroleum Corporation,Oil,ghana_national_petroleum_corporation2013oil,2013,628580078.49,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,332511716.3,0.0,na,175006166.47,na,na,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Tullow (Ghana) Ltd,Oil,tullow_(ghana)_ltd2013oil,2013,107025730.31,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,116358.75,na,0.0,na,na,na,na,na,106909371.56,na,na,na,na,na,na,na,na,na,na,na
+Kosmos Energy Ghana HC,Oil,kosmos_energy_ghana_hc2013oil,2013,55021795.9,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,16953.9,na,0.0,na,na,na,na,na,55004842.0,na,na,na,na,na,na,na,na,na,na,na
+Anardako (Ghana) Ltd,Oil,anardako_(ghana)_ltd2013oil,2013,55071284.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,0.0,na,0.0,na,na,na,na,na,55071284.0,na,na,na,na,na,na,na,na,na,na,na
+Saltpond Oil Fields Ltd,Oil,saltpond_oil_fields_ltd2013oil,2013,171595.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,555.0,na,171040.0,na,na,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Sabre Oil & Gas Holdings Ltd,Oil,sabre_oil_&_gas_holdings_ltd2013oil,2013,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,0.0,na,0.0,na,na,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
+Petro SA,Oil,petro_sa2013oil,2013,0.0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0.0,0.0,na,0.0,na,na,na,na,na,0.0,na,na,na,na,na,na,na,na,na,na,na
