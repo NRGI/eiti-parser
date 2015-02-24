@@ -3,6 +3,7 @@
 
 import os.path
 import parse
+from pprint import pprint
 # import sys
 
 
@@ -19,6 +20,7 @@ def main():
             for file_name in file_list:
                 if ".xlsx" in file_name:
                 	parse.main(file_name, json_data)
+    pprint(json_data)
 
 if __name__ == '__main__':
     main()
