@@ -18,7 +18,7 @@ def main(json_data):
         outrow.append(record['commodity'])
         outrow.append(record['code'])
         outrow.append(record['subtotal'])
-        outrow.append(record['id'])
+        outrow.append(record['companyID'])
         outrow.append(record['file_name'])
 
         outrow.append(record['1145E']['payment'])
@@ -69,7 +69,7 @@ def main(json_data):
     gfs_csv_writer = csv.writer(gfs_csv_out, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
     file_names = []
-    gfs_header = ['year', 'ref', 'id', 'name', 'included', 'name_of_recieving_agency', 'name_of_str_in_country']
+    gfs_header = ['year', 'ref', 'gfsID', 'name', 'included', 'name_of_recieving_agency', 'name_of_str_in_country']
 
     gfs_csv_writer.writerow(gfs_header)
 
@@ -81,7 +81,7 @@ def main(json_data):
             outrow.append(record['year'])
             outrow.append(record['file_name'])
             for key in record:
-                if key in ('code', 'subtotal', 'commodity', 'name', 'file_name', 'id', 'year'):
+                if key in ('code', 'subtotal', 'commodity', 'name', 'file_name', 'companyID', 'year'):
                     pass
                 else:
                     outrow.append(key)

@@ -2,7 +2,6 @@
 import xlrd
 from xlrd import open_workbook
 import sys
-import pprint
 
 def excel_read(file_name):
     """reades in excel workbook and checks for revenue sheet"""
@@ -50,7 +49,7 @@ def json_constructor(sheet, json_data, file_name):
         'name':'Government Total',
         'year': year,
         'commodity': 'all',
-        'id': 'governments',
+        'companyID': 'governments',
         'file_name': file_name
         })
     index_tracker['index']['gov_total'] = len(json_data) - 1
@@ -60,7 +59,7 @@ def json_constructor(sheet, json_data, file_name):
         'name':'Companies Subtotal',
         'year': year,
         'commodity': 'all',
-        'id': 'companies',
+        'companyID': 'companies',
         'file_name': file_name
         })
     index_tracker['index']['co_total'] = len(json_data) - 1
@@ -79,9 +78,9 @@ def json_constructor(sheet, json_data, file_name):
             'file_name': file_name
             })
         if sheet.cell_value(4, col) == '':
-            json_data[-1]['id'] = 'na'
+            json_data[-1]['companyID'] = 'na'
         else:
-            json_data[-1]['id'] = sheet.cell_value(4, col)
+            json_data[-1]['companyID'] = sheet.cell_value(4, col)
         index_tracker['index'][sheet.cell_value(3, col)] = len(json_data) - 1
         index_tracker['names'][len(json_data) - 1] = sheet.cell_value(3, col)
 
