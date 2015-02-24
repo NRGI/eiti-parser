@@ -2,6 +2,7 @@
 
 ###Instructions
 Open terminal and type in the following commands
+	
 	git clone https://github.com/NRGI/eiti-parser
 	cd eiti-parser
 	python main.py
