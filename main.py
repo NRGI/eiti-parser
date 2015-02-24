@@ -4,6 +4,7 @@
 import os.path
 import parse
 import json
+import csv_out
 from pprint import pprint
 # import sys
 
@@ -20,13 +21,16 @@ def main():
         if dir_list == ['.git', 'output']:
             for file_name in file_list:
                 if ".xlsx" in file_name:
-                	parse.main(file_name, json_data)
-    # pprint(json_data)
-    # write out json 
-	print_out = open('output/eiti.json', 'w')
-	print_out.write(json.dumps(json_data, indent=4, separators=(',', ':')))
+                    parse.main(file_name, json_data)
+    # pprint(json_data[0])
 
-	print_out.close()
+    # # write out json
+    # print_out = open('output/eiti.json', 'w')
+    # print_out.write(json.dumps(json_data, indent=4, separators=(',', ':')))
+    # print_out.close()
+
+    # write out csv
+    csv_out.main(json_data)
 
 if __name__ == '__main__':
     main()

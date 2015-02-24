@@ -2,6 +2,7 @@
 import xlrd
 from xlrd import open_workbook
 import sys
+import pprint
 
 def excel_read(file_name):
     """reades in excel workbook and checks for revenue sheet"""
@@ -115,4 +116,3 @@ def main(file_name, json_data):
     """main body"""
     sheet = excel_read(file_name)
     json_constructor(sheet, json_data, file_name[0:4])
-    # return json_data
