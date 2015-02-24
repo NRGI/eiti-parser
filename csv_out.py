@@ -8,7 +8,7 @@ def main(json_data):
     csv_out = open('output/eiti.csv', 'wb')
     csv_writer = csv.writer(csv_out, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
-    csv_header = ['name', 'year', 'commodity', 'code', 'subtotal', 'id', '1145E', '114522E', '1212E', '141E', '1143E', '143E', '1141E', '1151E', '1415E31', '1415E32', '12E', '1153E1', '11451E', '1421E', '144E1', '14E', '115E', '1412E', '113E', '114521E', '111E', '1415E1', '142E', '1412E2', '1412E1', '1142E', '1112E2', '1112E1', '11E', '1152E', '1415E', '1413E', '116E', '1422E', '114E', '1415E4', '1415E5', '112E', '1415E2']
+    csv_header = ['name', 'year', 'commodity', 'code', 'subtotal', 'id', 'file_name', '1145E', '114522E', '1212E', '141E', '1143E', '143E', '1141E', '1151E', '1415E31', '1415E32', '12E', '1153E1', '11451E', '1421E', '144E1', '14E', '115E', '1412E', '113E', '114521E', '111E', '1415E1', '142E', '1412E2', '1412E1', '1142E', '1112E2', '1112E1', '11E', '1152E', '1415E', '1413E', '116E', '1422E', '114E', '1415E4', '1415E5', '112E', '1415E2']
 
     csv_writer.writerow(csv_header)
     for record in json_data:
@@ -19,6 +19,7 @@ def main(json_data):
         outrow.append(record['code'])
         outrow.append(record['subtotal'])
         outrow.append(record['id'])
+        outrow.append(record['file_name'])
 
         outrow.append(record['1145E']['payment'])
         outrow.append(record['114522E']['payment'])
