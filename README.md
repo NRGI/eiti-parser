@@ -1,6 +1,7 @@
 #  EITI parser
 
-###Open terminal
+###Instructions
+-- Open terminal
 commands
 git clone 
 
