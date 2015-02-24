@@ -34,8 +34,9 @@ def insert_object(row, sheet):
         output['name_of_recieving_agency'] = sheet.cell_value(row, 6).encode('utf-8').strip()
     return output
 
-def json_constructor(sheet, json_data, year):
+def json_constructor(sheet, json_data, file_name):
     """parses incoming excel into json"""
+    year = file_name[0:4]
     # nrows = sheet.nrows
     nrows = sheet.nrows
     ncols = sheet.ncols
@@ -48,7 +49,9 @@ def json_constructor(sheet, json_data, year):
         'code': 'gov_total' + year + 'all',
         'name':'Government Total',
         'year': year,
-        'commodity': 'all'
+        'commodity': 'all',
+        'id': 'governments',
+        'file_name': file_name
         })
     index_tracker['index']['gov_total'] = len(json_data) - 1
     index_tracker['names'][len(json_data) - 1] = 'gov_total'
@@ -56,7 +59,9 @@ def json_constructor(sheet, json_data, year):
         'code': 'co_total' + year + 'all',
         'name':'Companies Subtotal',
         'year': year,
-        'commodity': 'all'
+        'commodity': 'all',
+        'id': 'companies',
+        'file_name': file_name
         })
     index_tracker['index']['co_total'] = len(json_data) - 1
     index_tracker['names'][len(json_data) - 1] = 'co_total'
@@ -70,7 +75,8 @@ def json_constructor(sheet, json_data, year):
             'name': sheet.cell_value(3, col).encode('utf-8'),
             'year': year,
             'commodity': sheet.cell_value(5, col).encode('utf-8'),
-            'subtotal': sheet.cell_value(7, col)
+            'subtotal': sheet.cell_value(7, col),
+            'file_name': file_name
             })
         if sheet.cell_value(4, col) == '':
             json_data[-1]['id'] = 'na'
@@ -120,4 +126,4 @@ def json_constructor(sheet, json_data, year):
 def main(file_name, json_data):
     """main body"""
     sheet = excel_read(file_name)
-    json_constructor(sheet, json_data, file_name[0:4])
+    json_constructor(sheet, json_data, file_name)

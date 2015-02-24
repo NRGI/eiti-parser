@@ -58,13 +58,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"governments",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -100,6 +94,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -114,6 +115,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2007 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -338,13 +340,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"companies",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -380,6 +376,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -394,6 +397,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2007 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -618,13 +622,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -660,6 +658,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -674,6 +679,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2007 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -898,13 +904,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -940,6 +940,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -954,6 +961,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2007 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -1178,13 +1186,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -1220,6 +1222,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -1234,6 +1243,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2007 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -1458,13 +1468,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -1500,6 +1504,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -1514,6 +1525,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2007 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -1738,13 +1750,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -1780,6 +1786,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -1794,6 +1807,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2007 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -2018,13 +2032,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -2060,6 +2068,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -2074,6 +2089,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2007 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -2298,13 +2314,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -2340,6 +2350,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -2354,6 +2371,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2007 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -2578,13 +2596,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -2620,6 +2632,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -2634,6 +2653,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2007 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -2858,13 +2878,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -2900,6 +2914,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -2914,6 +2935,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2007 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -3138,13 +3160,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -3180,6 +3196,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -3194,6 +3217,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2007 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -3418,13 +3442,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -3460,6 +3478,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -3474,6 +3499,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2007 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -3698,13 +3724,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -3740,6 +3760,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -3754,6 +3781,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2007 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -3978,13 +4006,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"governments",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -4020,6 +4042,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -4034,6 +4063,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2008 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -4258,13 +4288,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"companies",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -4300,6 +4324,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -4314,6 +4345,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2008 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -4538,13 +4570,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -4580,6 +4606,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -4594,6 +4627,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2008 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -4818,13 +4852,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -4860,6 +4888,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -4874,6 +4909,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2008 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -5098,13 +5134,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -5140,6 +5170,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -5154,6 +5191,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2008 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -5378,13 +5416,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -5420,6 +5452,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -5434,6 +5473,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2008 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -5658,13 +5698,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -5700,6 +5734,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -5714,6 +5755,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2008 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -5938,13 +5980,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -5980,6 +6016,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -5994,6 +6037,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2008 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -6218,13 +6262,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -6260,6 +6298,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -6274,6 +6319,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2008 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -6498,13 +6544,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -6540,6 +6580,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -6554,6 +6601,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2008 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -6778,13 +6826,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -6820,6 +6862,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -6834,6 +6883,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2008 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -7058,13 +7108,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -7100,6 +7144,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -7114,6 +7165,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2008 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -7338,13 +7390,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -7380,6 +7426,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -7394,6 +7447,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2008 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -7618,13 +7672,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -7660,6 +7708,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -7674,6 +7729,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2008 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -7898,13 +7954,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"governments",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -7940,6 +7990,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -7954,6 +8011,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2009 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -8178,13 +8236,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"companies",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -8220,6 +8272,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -8234,6 +8293,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2009 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -8458,13 +8518,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -8500,6 +8554,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -8514,6 +8575,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2009 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -8738,13 +8800,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -8780,6 +8836,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -8794,6 +8857,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2009 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -9018,13 +9082,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -9060,6 +9118,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -9074,6 +9139,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2009 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -9298,13 +9364,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -9340,6 +9400,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -9354,6 +9421,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2009 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -9578,13 +9646,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -9620,6 +9682,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -9634,6 +9703,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2009 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -9858,13 +9928,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -9900,6 +9964,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -9914,6 +9985,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2009 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -10138,13 +10210,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -10180,6 +10246,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -10194,6 +10267,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2009 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -10418,13 +10492,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -10460,6 +10528,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -10474,6 +10549,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2009 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -10698,13 +10774,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -10740,6 +10810,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -10754,6 +10831,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2009 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -10978,13 +11056,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -11020,6 +11092,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -11034,6 +11113,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2009 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -11258,13 +11338,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -11300,6 +11374,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -11314,6 +11395,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2009 Ghana Summary Data (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -11538,13 +11620,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"governments",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -11580,6 +11656,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -11594,6 +11677,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -11818,13 +11902,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"companies",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -11860,6 +11938,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -11874,6 +11959,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -12098,13 +12184,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -12140,6 +12220,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -12154,6 +12241,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -12378,13 +12466,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -12420,6 +12502,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -12434,6 +12523,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -12658,13 +12748,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -12700,6 +12784,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -12714,6 +12805,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -12938,13 +13030,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -12980,6 +13066,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -12994,6 +13087,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -13218,13 +13312,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -13260,6 +13348,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -13274,6 +13369,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -13498,13 +13594,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -13540,6 +13630,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -13554,6 +13651,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -13778,13 +13876,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -13820,6 +13912,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -13834,6 +13933,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -14058,13 +14158,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -14100,6 +14194,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -14114,6 +14215,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -14338,13 +14440,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -14380,6 +14476,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -14394,6 +14497,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -14618,13 +14722,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -14660,6 +14758,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -14674,6 +14779,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -14898,13 +15004,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -14940,6 +15040,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -14954,6 +15061,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -15178,13 +15286,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"governments",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -15220,6 +15322,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -15234,6 +15343,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -15458,13 +15568,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"companies",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -15500,6 +15604,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -15514,6 +15625,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -15738,13 +15850,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -15780,6 +15886,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -15794,6 +15907,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -16018,13 +16132,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -16060,6 +16168,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -16074,6 +16189,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -16298,13 +16414,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -16340,6 +16450,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -16354,6 +16471,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -16578,13 +16696,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -16620,6 +16732,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -16634,6 +16753,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -16858,13 +16978,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -16900,6 +17014,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -16914,6 +17035,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -17138,13 +17260,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -17180,6 +17296,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -17194,6 +17317,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -17418,13 +17542,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -17460,6 +17578,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -17474,6 +17599,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2010 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -17698,13 +17824,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"governments",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -17740,6 +17860,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -17754,6 +17881,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -17978,13 +18106,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"companies",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -18020,6 +18142,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -18034,6 +18163,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -18258,13 +18388,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -18300,6 +18424,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -18314,6 +18445,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -18538,13 +18670,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -18580,6 +18706,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -18594,6 +18727,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -18818,13 +18952,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -18860,6 +18988,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -18874,6 +19009,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -19098,13 +19234,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -19140,6 +19270,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -19154,6 +19291,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -19378,13 +19516,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -19420,6 +19552,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -19434,6 +19573,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -19658,13 +19798,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -19700,6 +19834,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -19714,6 +19855,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -19938,13 +20080,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -19980,6 +20116,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -19994,6 +20137,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -20218,13 +20362,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -20260,6 +20398,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -20274,6 +20419,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -20498,13 +20644,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -20540,6 +20680,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -20554,6 +20701,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -20778,13 +20926,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -20820,6 +20962,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -20834,6 +20983,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -21058,13 +21208,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -21100,6 +21244,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -21114,6 +21265,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -21338,13 +21490,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -21380,6 +21526,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -21394,6 +21547,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -21618,13 +21772,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"governments",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -21660,6 +21808,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -21674,6 +21829,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -21898,13 +22054,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"companies",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -21940,6 +22090,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -21954,6 +22111,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -22178,13 +22336,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -22220,6 +22372,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -22234,6 +22393,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -22458,13 +22618,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -22500,6 +22654,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -22514,6 +22675,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -22738,13 +22900,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -22780,6 +22936,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -22794,6 +22957,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -23018,13 +23182,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -23060,6 +23218,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -23074,6 +23239,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -23298,13 +23464,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -23340,6 +23500,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -23354,6 +23521,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -23578,13 +23746,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -23620,6 +23782,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -23634,6 +23803,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -23858,13 +24028,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -23900,6 +24064,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -23914,6 +24085,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2011 Ghana - OilandGas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -24138,13 +24310,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"governments",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -24180,6 +24346,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -24194,6 +24367,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -24418,13 +24592,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"companies",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -24460,6 +24628,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -24474,6 +24649,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -24698,13 +24874,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"614G000005",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -24740,6 +24910,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -24754,6 +24931,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -24978,13 +25156,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"524G000234",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -25020,6 +25192,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -25034,6 +25213,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -25258,13 +25438,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"721G000012",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -25300,6 +25474,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -25314,6 +25495,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -25538,13 +25720,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"421G000014",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -25580,6 +25756,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -25594,6 +25777,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -25818,13 +26002,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -25860,6 +26038,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -25874,6 +26059,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -26098,13 +26284,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"109G000038",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -26140,6 +26320,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -26154,6 +26341,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -26378,13 +26566,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"665G000003",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -26420,6 +26602,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -26434,6 +26623,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -26658,13 +26848,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"365G000002",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -26700,6 +26884,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -26714,6 +26905,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -26938,13 +27130,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"324G000112",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -26980,6 +27166,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -26994,6 +27187,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -27218,13 +27412,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"621G000008",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -27260,6 +27448,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -27274,6 +27469,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -27498,13 +27694,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"565G000001",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -27540,6 +27730,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -27554,6 +27751,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -27778,13 +27976,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"516G000001",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -27820,6 +28012,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -27834,6 +28033,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -28058,13 +28258,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"516G000001",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -28100,6 +28294,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -28114,6 +28315,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -28338,13 +28540,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"524V018617",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -28380,6 +28576,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -28394,6 +28597,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -28618,13 +28822,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"624V003018",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -28660,6 +28858,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -28674,6 +28879,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -28898,13 +29104,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"None",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -28940,6 +29140,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -28954,6 +29161,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -29178,13 +29386,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"None",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -29220,6 +29422,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -29234,6 +29443,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -29458,13 +29668,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"governments",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -29500,6 +29704,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -29514,6 +29725,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -29598,7 +29810,7 @@
             "name":"Ordinary taxes on income, profits and capital gains",
             "payment":0.0
         },
-        "subtotal":"",
+        "subtotal":541977889.66,
         "11E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -29738,13 +29950,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"companies",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -29780,6 +29986,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -29794,6 +30007,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -29878,7 +30092,7 @@
             "name":"Ordinary taxes on income, profits and capital gains",
             "payment":"na"
         },
-        "subtotal":"",
+        "subtotal":541510082.8399999,
         "11E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -30018,13 +30232,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -30060,6 +30268,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -30074,6 +30289,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -30298,13 +30514,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"209G000648",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -30340,6 +30550,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -30354,6 +30571,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -30578,13 +30796,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"209G000045",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -30620,6 +30832,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -30634,6 +30853,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -30858,13 +31078,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"824V062391",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -30900,6 +31114,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -30914,6 +31135,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -31138,13 +31360,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"P0001959115",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -31180,6 +31396,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -31194,6 +31417,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -31418,13 +31642,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"724V043206",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -31460,6 +31678,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -31474,6 +31699,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -31698,13 +31924,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"V000333547X",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -31740,6 +31960,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -31754,6 +31981,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2012 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -31978,13 +32206,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"governments",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -32020,6 +32242,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -32034,6 +32263,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -32258,13 +32488,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"companies",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -32300,6 +32524,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -32314,6 +32545,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -32538,13 +32770,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"614G000005",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -32580,6 +32806,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -32594,6 +32827,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -32818,13 +33052,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"524G000234",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -32860,6 +33088,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -32874,6 +33109,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -33098,13 +33334,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"721G000012",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -33140,6 +33370,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -33154,6 +33391,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -33378,13 +33616,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"421G000014",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -33420,6 +33652,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -33434,6 +33673,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -33658,13 +33898,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -33700,6 +33934,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -33714,6 +33955,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -33938,13 +34180,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"109G000038",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -33980,6 +34216,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -33994,6 +34237,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -34218,13 +34462,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"665G000003",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -34260,6 +34498,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -34274,6 +34519,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -34498,13 +34744,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"365G000002",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -34540,6 +34780,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -34554,6 +34801,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -34778,13 +35026,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"324G000112",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -34820,6 +35062,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -34834,6 +35083,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -35058,13 +35308,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"621G000008",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -35100,6 +35344,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -35114,6 +35365,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -35338,13 +35590,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"565G000001",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -35380,6 +35626,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -35394,6 +35647,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -35618,13 +35872,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"516G000001",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -35660,6 +35908,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -35674,6 +35929,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -35898,13 +36154,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"516G000001",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -35940,6 +36190,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -35954,6 +36211,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -36178,13 +36436,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"524V018617",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -36220,6 +36472,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -36234,6 +36493,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -36458,13 +36718,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"624V003018",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -36500,6 +36754,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -36514,6 +36775,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -36738,13 +37000,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"None",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -36780,6 +37036,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -36794,6 +37057,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -37018,13 +37282,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"None",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -37060,6 +37318,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -37074,6 +37339,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Mining (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -37298,13 +37564,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"governments",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -37340,6 +37600,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -37354,6 +37621,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -37438,7 +37706,7 @@
             "name":"Ordinary taxes on income, profits and capital gains",
             "payment":216985498.0
         },
-        "subtotal":"",
+        "subtotal":846413034.33,
         "11E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -37578,13 +37846,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"companies",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -37620,6 +37882,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -37634,6 +37903,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -37718,7 +37988,7 @@
             "name":"Ordinary taxes on income, profits and capital gains",
             "payment":216985497.56
         },
-        "subtotal":"",
+        "subtotal":845870483.7,
         "11E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -37858,13 +38128,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"na",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -37900,6 +38164,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -37914,6 +38185,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -38138,13 +38410,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"209G000648",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -38180,6 +38446,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -38194,6 +38467,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -38418,13 +38692,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"209G000045",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -38460,6 +38728,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -38474,6 +38749,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -38698,13 +38974,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"824V062391",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -38740,6 +39010,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -38754,6 +39031,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -38978,13 +39256,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"P0001959115",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -39020,6 +39292,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -39034,6 +39313,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -39258,13 +39538,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"724V043206",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -39300,6 +39574,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -39314,6 +39595,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
@@ -39538,13 +39820,7 @@
             "name":"Customs and other import duties",
             "payment":"na"
         },
-        "1415E31":{
-            "included":"Not included",
-            "name_of_recieving_agency":"na",
-            "name_of_str_in_country":"na",
-            "name":"Delivered/paid directly to government",
-            "payment":"na"
-        },
+        "id":"V000333547X",
         "1415E32":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -39580,6 +39856,13 @@
             "name":"Sales of goods and services by government units",
             "payment":"na"
         },
+        "1415E31":{
+            "included":"Not included",
+            "name_of_recieving_agency":"na",
+            "name_of_str_in_country":"na",
+            "name":"Delivered/paid directly to government",
+            "payment":"na"
+        },
         "144E1":{
             "included":"Not included",
             "name_of_recieving_agency":"na",
@@ -39594,6 +39877,7 @@
             "name":"Other revenue",
             "payment":"na"
         },
+        "file_name":"2013 Ghana - Oil-Gas (draft).xlsx",
         "115E":{
             "included":"na",
             "name_of_recieving_agency":"na",
