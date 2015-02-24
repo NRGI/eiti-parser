@@ -79,8 +79,10 @@ def json_constructor(sheet, json_data, year):
         # namer =  index_tracker['names']
 
         # create record to insert into company records
-        if sheet.cell_value(row, 1) == '' or sheet.cell_value(row, 1) == 'E. Notes':
+        if sheet.cell_value(row, 1) == '':
             pass
+        elif sheet.cell_value(row, 1) == 'E. Notes':
+        	subtotal_row = row
         else:
             # country totals
             json_data[indexer['gov_total']][sheet.cell_value(row, 1).encode('utf-8')] = insert_object(row, sheet)
@@ -106,8 +108,8 @@ def json_constructor(sheet, json_data, year):
                 else:
                     json_data[indexer[sheet.cell_value(3, col)]][sheet.cell_value(row, 1).encode('utf-8')]['payment'] = sheet.cell_value(row, col)
 
-    json_data[indexer['gov_total']]['subtotal'] = sheet.cell_value(52, 7)
-    json_data[indexer['co_total']]['subtotal'] = sheet.cell_value(52, 9)
+    json_data[indexer['gov_total']]['subtotal'] = sheet.cell_value(subtotal_row, 7)
+    json_data[indexer['co_total']]['subtotal'] = sheet.cell_value(subtotal_row, 9)
     for col in range(10, ncols):
     	json_data[indexer[sheet.cell_value(3, col)]]['subtotal'] = sheet.cell_value(7, col)
 
