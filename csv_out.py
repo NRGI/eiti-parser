@@ -14,9 +14,9 @@ def main(json_data):
     for record in json_data:
         outrow = []
         outrow.append(record['name'])
+        outrow.append(record['year'])
         outrow.append(record['commodity'])
         outrow.append(record['code'])
-        outrow.append(record['year'])
         outrow.append(record['subtotal'])
         outrow.append(record['id'])
 
