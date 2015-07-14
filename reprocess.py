@@ -6,7 +6,7 @@ INFILE = "output/eiti.csv"
 GFSFILE = "output/gfs.csv"
 OUTFILE = "data/eiti_normalised.csv"
 
-HEADERS = ['name', 'year', 'commodity', 'code', 'subtotal', 'companyID', 
+HEADERS = ['name', 'year', 'commodity', 'code', 'companyID',
 'file_name', 'gfs_code', 'gfs_name', 'value']
 
 def get_gfs():
