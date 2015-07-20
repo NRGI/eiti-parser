@@ -7,5 +7,6 @@ To see formated outputs click [here for csv](https://github.com/NRGI/eiti-parser
 To rerun, open terminal and type in the following commands
 	
 	git clone https://github.com/NRGI/eiti-parser
-	cd eiti-parser
+	cd eiti-parser/scripts
 	python main.py
+
