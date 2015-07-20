@@ -5,6 +5,7 @@ import os.path
 import parse
 import json
 import csv_out
+import reprocess
 
 def main():
 # def main(args):
@@ -27,6 +28,10 @@ def main():
 
     # write out csv
     csv_out.main(json_data)
+
+    # write out normalised data
+    gfs_codes = reprocess.get_gfs()
+    reprocess(gfs_codes)
 
 if __name__ == '__main__':
     main()
