@@ -1,0 +1,67 @@
+{
+  "name": "eiti-parser",
+  "title": "Combined, normalised dataset for GHEITI data",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "PDDL-1.0",
+  "resources": [
+    {
+      "name": "eiti_normalised",
+      "path": "data/eiti_normalised.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 48532,
+      "schema": {
+        "fields": [
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Company name"
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Year of revenue"
+          },
+          {
+            "name": "commodity",
+            "type": "string",
+            "description": "Name of the commodity"
+          },
+          {
+            "name": "code",
+            "type": "string",
+            "description": "Code for the company/year/commodity combination"
+          },
+          {
+            "name": "companyID",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "file_name",
+            "type": "string",
+            "description": "Filename of the original source file"
+          },
+          {
+            "name": "gfs_code",
+            "type": "string",
+            "description": "GFS revenue code"
+          },
+          {
+            "name": "gfs_name",
+            "type": "string",
+            "description": "GFS revenue code name"
+          },
+          {
+            "name": "value",
+            "type": "number",
+            "description": "Value of revenue for this row"
+          }
+        ]
+      }
+    }
+  ],
+  "description": "Python parser reads in excel EITI reports and writes out formatted json and csv to output folder",
+  "repository": "git://github.com/NRGI/eiti-parser.git"
+}
